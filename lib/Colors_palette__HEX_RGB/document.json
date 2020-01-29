@@ -1,0 +1,1073 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colorAssets": [
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.06274509803921569,
+          "green": 0.06274509803921569,
+          "red": 0.08235294117647059
+        },
+        "do_objectID": "329E4BE7-2FD1-4608-9C94-2555B1B76619",
+        "name": "Black"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.615686274509804,
+          "green": 0.4274509803921568,
+          "red": 0.1803921568627451
+        },
+        "do_objectID": "C896D08D-7499-4FC1-972B-8DEBD3503D43",
+        "name": "Steelblue"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "do_objectID": "9813A5F9-BF12-4F09-920C-26CE92ABF3E6",
+        "name": "White"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9803921568627451,
+          "green": 0.9803921568627451,
+          "red": 0.9803921568627451
+        },
+        "do_objectID": "FB096DBF-7160-4BA0-AB39-6DD8ECBB9CDC",
+        "name": "Gray10"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9607843137254902,
+          "green": 0.9607843137254902,
+          "red": 0.9607843137254902
+        },
+        "do_objectID": "C3E16C4B-5DB4-44AA-BFAB-35B28ECBEC17",
+        "name": "Gray20"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9333333333333333,
+          "green": 0.9333333333333333,
+          "red": 0.9333333333333333
+        },
+        "do_objectID": "88674D0B-4876-427F-82F1-EDE2B7ACBE3B",
+        "name": "Gray30"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8784313725490196,
+          "green": 0.8784313725490196,
+          "red": 0.8784313725490196
+        },
+        "do_objectID": "7B826C1F-ECB3-4DF1-9203-372592DF7114",
+        "name": "Gray40"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7411764705882353,
+          "green": 0.7411764705882353,
+          "red": 0.7411764705882353
+        },
+        "do_objectID": "CC1AFD38-ABE5-45A6-A03B-30BC54074190",
+        "name": "Gray50"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6196078431372549,
+          "green": 0.6196078431372549,
+          "red": 0.6196078431372549
+        },
+        "do_objectID": "9BBCFB06-8A46-449B-AF0C-A4B624D918AB",
+        "name": "Gray60"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4588235294117647,
+          "green": 0.4588235294117647,
+          "red": 0.4588235294117647
+        },
+        "do_objectID": "8B77A491-2561-4EE2-A7C6-9D5802C3BE60",
+        "name": "Gray70"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3803921568627451,
+          "green": 0.3803921568627451,
+          "red": 0.3803921568627451
+        },
+        "do_objectID": "4810CC8B-8D10-47E6-8440-E85D1F8DB2D7",
+        "name": "Gray80"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2588235294117647,
+          "green": 0.2588235294117647,
+          "red": 0.2588235294117647
+        },
+        "do_objectID": "6B01E2F6-E271-4BFF-A784-6BCF26B1BF50",
+        "name": "Gray90"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1294117647058823,
+          "green": 0.1294117647058823,
+          "red": 0.1294117647058823
+        },
+        "do_objectID": "DB9A51EF-938C-4FBE-A409-6D57B93C5F17",
+        "name": "Gray100"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9450980392156862,
+          "green": 0.9372549019607843,
+          "red": 0.9254901960784314
+        },
+        "do_objectID": "95BFB449-2A86-4A1D-B840-D89AD4E7494B",
+        "name": "Slategray10"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8627450980392157,
+          "green": 0.8470588235294118,
+          "red": 0.8117647058823529
+        },
+        "do_objectID": "F5AE2E6C-9D1A-4FF1-B49A-8C66FDBF2CDC",
+        "name": "Slategray20"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7725490196078432,
+          "green": 0.7450980392156863,
+          "red": 0.6901960784313725
+        },
+        "do_objectID": "DD4B9203-C644-4FE7-B858-5D73F62FCAD4",
+        "name": "Slategray30"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6823529411764706,
+          "green": 0.6431372549019607,
+          "red": 0.5647058823529412
+        },
+        "do_objectID": "7F55155F-A93C-4772-8BD8-7963CEF1C859",
+        "name": "Slategray40"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.611764705882353,
+          "green": 0.5647058823529412,
+          "red": 0.4705882352941176
+        },
+        "do_objectID": "1FFBDA04-6832-4BA8-A791-CE54BB4610D0",
+        "name": "Slategray50"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5450980392156862,
+          "green": 0.4901960784313725,
+          "red": 0.3764705882352941
+        },
+        "do_objectID": "3773D458-8EEC-4B82-8A42-1C4C13894E1C",
+        "name": "Slategray60"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4784313725490196,
+          "green": 0.4313725490196079,
+          "red": 0.3294117647058823
+        },
+        "do_objectID": "BB210E0D-CF71-4573-8B14-E6ED89A7C72B",
+        "name": "Slategray70"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.392156862745098,
+          "green": 0.3529411764705882,
+          "red": 0.2705882352941176
+        },
+        "do_objectID": "1D3DEA01-0BB2-447A-B262-F6CC5D87DD97",
+        "name": "Slategray80"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3098039215686275,
+          "green": 0.2784313725490196,
+          "red": 0.2156862745098039
+        },
+        "do_objectID": "72A7A955-4403-4382-BA4C-64FC44345751",
+        "name": "Slategray90"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2196078431372549,
+          "green": 0.196078431372549,
+          "red": 0.1490196078431373
+        },
+        "do_objectID": "8E8DDEB3-63E6-4499-90FD-67CC2A8C6AAE",
+        "name": "Slategray100"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3882352941176471,
+          "green": 0.1215686274509804,
+          "red": 0.9137254901960784
+        },
+        "do_objectID": "CCA12C0D-F832-4C00-986D-A636CA559A1D",
+        "name": "Accent-magenta"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6470588235294118,
+          "green": 0.7490196078431373,
+          "red": 0
+        },
+        "do_objectID": "3E14B88F-5006-4178-8CD3-A57B81A0CA55",
+        "name": "Accent-mint"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0.6274509803921569,
+          "red": 1
+        },
+        "do_objectID": "7C6F3C09-9644-4624-83D8-0B9DAF170183",
+        "name": "Accent-orange"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5568627450980392,
+          "green": 0.807843137254902,
+          "red": 0.9294117647058824
+        },
+        "do_objectID": "B27C4901-E29E-4326-B5EA-97A48F8EE433",
+        "name": "Accent-gold"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1882352941176471,
+          "green": 0.1882352941176471,
+          "red": 1
+        },
+        "do_objectID": "5A47E647-F1DC-4294-A1DA-0AB3E15CD0FB",
+        "name": "Accent-firebrick"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.596078431372549,
+          "green": 0.3490196078431372,
+          "red": 0.2313725490196079
+        },
+        "do_objectID": "27D2ADA7-F2AB-4E72-BF11-B899490188F3",
+        "name": "Facebook"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9490196078431372,
+          "green": 0.6313725490196078,
+          "red": 0.1137254901960784
+        },
+        "do_objectID": "4DD44A07-F399-4623-B3A3-3C2D4741A956",
+        "name": "Twitter"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.05882352941176471,
+          "green": 0.2705882352941176,
+          "red": 0.9372549019607843
+        },
+        "do_objectID": "BAEF45D3-EBE2-45BC-B27E-4A23B6461246",
+        "name": "Youtube"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8784313725490196,
+          "green": 0.6470588235294118,
+          "red": 0.1725490196078431
+        },
+        "do_objectID": "28C554FE-89F9-4C6B-85D9-6707503E1789",
+        "name": "Telegram"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4,
+          "green": 0.8274509803921568,
+          "red": 0.1450980392156863
+        },
+        "do_objectID": "0D60F50B-FD12-468B-9A96-8124EB7A3000",
+        "name": "Whatsapp"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2313725490196079,
+          "green": 0.2313725490196079,
+          "red": 0.2313725490196079
+        },
+        "do_objectID": "783A843E-86F2-4B03-99B5-102CED060B77",
+        "name": "Theme-black"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7803921568627451,
+          "green": 0.4666666666666667,
+          "red": 0.196078431372549
+        },
+        "do_objectID": "78D879A7-2448-4E2D-9CA7-392B3D079F5A",
+        "name": "Theme-blue"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8588235294117647,
+          "green": 0.615686274509804,
+          "red": 0.1647058823529412
+        },
+        "do_objectID": "92CDDE55-A5C7-431F-B185-66A8A28F241A",
+        "name": "Theme-cyan"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3333333333333333,
+          "green": 0.6823529411764706,
+          "red": 0.3137254901960784
+        },
+        "do_objectID": "CC76BD66-F5CC-4068-AB35-3628CE87813E",
+        "name": "Theme-green"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7803921568627451,
+          "green": 0.3647058823529412,
+          "red": 0.7176470588235294
+        },
+        "do_objectID": "513917FF-0734-4D29-9D1E-DC836E9090AA",
+        "name": "Theme-purple"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6980392156862745,
+          "green": 0.5686274509803921,
+          "red": 0.9490196078431372
+        },
+        "do_objectID": "04E591FE-A598-407D-8F41-C82FE8EBFDDB",
+        "name": "Theme-pink"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2392156862745098,
+          "green": 0.2745098039215687,
+          "red": 0.9490196078431372
+        },
+        "do_objectID": "3AAC9472-F8D2-46BE-974A-EEEFD25A6C7C",
+        "name": "Theme-red"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1294117647058823,
+          "green": 0.1294117647058823,
+          "red": 0.8509803921568627
+        },
+        "do_objectID": "78300E95-1D2E-48A8-8367-2DAE352966B0",
+        "name": "Theme-ruby"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1490196078431373,
+          "green": 0.7450980392156863,
+          "red": 1
+        },
+        "do_objectID": "F71A7D1F-3639-4F6D-870A-CD5D0927AF72",
+        "name": "Theme-yellow"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1333333333333333,
+          "green": 0.5450980392156862,
+          "red": 0.1333333333333333
+        },
+        "do_objectID": "340F0E58-F8BC-4618-8A8D-5CF8C145D1BC",
+        "name": "Forestgreen"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6078431372549019,
+          "green": 0.3411764705882353,
+          "red": 0.00392156862745098
+        },
+        "do_objectID": "10F2AC1B-36B4-4F75-B2F0-9BE547BCA0BD",
+        "name": "Blue"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 0.3,
+          "blue": 0.2313725490196079,
+          "green": 0.2313725490196079,
+          "red": 0.2313725490196079
+        },
+        "do_objectID": "593C9C83-CCCF-4226-812F-5B7DDC325129",
+        "name": "black-selection (30%)"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 0.3,
+          "blue": 0.7803921568627451,
+          "green": 0.4666666666666667,
+          "red": 0.196078431372549
+        },
+        "do_objectID": "F4AB2C48-4BB2-4474-AF50-1BFA158F9B56",
+        "name": "blue-selection(30%)"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 0.3,
+          "blue": 0.8588235294117647,
+          "green": 0.615686274509804,
+          "red": 0.1647058823529412
+        },
+        "do_objectID": "A0A1EA0E-BBA0-4141-B2EA-F9C6F54989B0",
+        "name": "cyan-selection(30%)"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 0.3,
+          "blue": 0.3333333333333333,
+          "green": 0.6823529411764706,
+          "red": 0.3137254901960784
+        },
+        "do_objectID": "566C44E4-8953-4E92-ABE1-CF0717CE5993",
+        "name": "green-selection(30%)"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 0.3,
+          "blue": 0.7803921568627451,
+          "green": 0.3647058823529412,
+          "red": 0.7176470588235294
+        },
+        "do_objectID": "33023F83-6644-418C-BE56-1259B5DD1042",
+        "name": "purple-selection(30%)"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 0.3,
+          "blue": 0.6980392156862745,
+          "green": 0.5686274509803921,
+          "red": 0.9490196078431372
+        },
+        "do_objectID": "35D4BA91-D983-41F4-A3C1-1DC22078344F",
+        "name": "pink-selection(30%)"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 0.3,
+          "blue": 0.2392156862745098,
+          "green": 0.2745098039215687,
+          "red": 0.9490196078431372
+        },
+        "do_objectID": "AD16E8B0-BDB2-4E99-A07D-B86A4AF55617",
+        "name": "red-selection30%)"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 0.3,
+          "blue": 0.1294117647058823,
+          "green": 0.1294117647058823,
+          "red": 0.8509803921568627
+        },
+        "do_objectID": "4EDCDDAA-400B-4200-AEBE-46A0288F5E22",
+        "name": "ruby-selection(30%)"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 0.3,
+          "blue": 0.1490196078431373,
+          "green": 0.7450980392156863,
+          "red": 1
+        },
+        "do_objectID": "4D023CB5-34A6-4D8C-B9ED-C1E1DEA0E894",
+        "name": "yellow-selection(30%)"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 0.1,
+          "blue": 0.1294117647058823,
+          "green": 0.1294117647058823,
+          "red": 0.1294117647058823
+        },
+        "do_objectID": "74DE0E91-FA95-4359-BCAE-CBA014C58526",
+        "name": "theme-black — lighten(10%)"
+      }
+    ],
+    "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.06274509803921569,
+        "green": 0.06274509803921569,
+        "red": 0.08235294117647059
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.615686274509804,
+        "green": 0.4274509803921568,
+        "red": 0.1803921568627451
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9803921568627451,
+        "green": 0.9803921568627451,
+        "red": 0.9803921568627451
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9607843137254902,
+        "green": 0.9607843137254902,
+        "red": 0.9607843137254902
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9333333333333333,
+        "green": 0.9333333333333333,
+        "red": 0.9333333333333333
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8784313725490196,
+        "green": 0.8784313725490196,
+        "red": 0.8784313725490196
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.7411764705882353,
+        "green": 0.7411764705882353,
+        "red": 0.7411764705882353
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.6196078431372549,
+        "green": 0.6196078431372549,
+        "red": 0.6196078431372549
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.4588235294117647,
+        "green": 0.4588235294117647,
+        "red": 0.4588235294117647
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.3803921568627451,
+        "green": 0.3803921568627451,
+        "red": 0.3803921568627451
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2588235294117647,
+        "green": 0.2588235294117647,
+        "red": 0.2588235294117647
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.1294117647058823,
+        "green": 0.1294117647058823,
+        "red": 0.1294117647058823
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9450980392156862,
+        "green": 0.9372549019607843,
+        "red": 0.9254901960784314
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8627450980392157,
+        "green": 0.8470588235294118,
+        "red": 0.8117647058823529
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.7725490196078432,
+        "green": 0.7450980392156863,
+        "red": 0.6901960784313725
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.6823529411764706,
+        "green": 0.6431372549019607,
+        "red": 0.5647058823529412
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.611764705882353,
+        "green": 0.5647058823529412,
+        "red": 0.4705882352941176
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.5450980392156862,
+        "green": 0.4901960784313725,
+        "red": 0.3764705882352941
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.4784313725490196,
+        "green": 0.4313725490196079,
+        "red": 0.3294117647058823
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.392156862745098,
+        "green": 0.3529411764705882,
+        "red": 0.2705882352941176
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.3098039215686275,
+        "green": 0.2784313725490196,
+        "red": 0.2156862745098039
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2196078431372549,
+        "green": 0.196078431372549,
+        "red": 0.1490196078431373
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.3882352941176471,
+        "green": 0.1215686274509804,
+        "red": 0.9137254901960784
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.6470588235294118,
+        "green": 0.7490196078431373,
+        "red": 0
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0,
+        "green": 0.6274509803921569,
+        "red": 1
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.5568627450980392,
+        "green": 0.807843137254902,
+        "red": 0.9294117647058824
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.1882352941176471,
+        "green": 0.1882352941176471,
+        "red": 1
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.596078431372549,
+        "green": 0.3490196078431372,
+        "red": 0.2313725490196079
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9490196078431372,
+        "green": 0.6313725490196078,
+        "red": 0.1137254901960784
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.05882352941176471,
+        "green": 0.2705882352941176,
+        "red": 0.9372549019607843
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8784313725490196,
+        "green": 0.6470588235294118,
+        "red": 0.1725490196078431
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.4,
+        "green": 0.8274509803921568,
+        "red": 0.1450980392156863
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2313725490196079,
+        "green": 0.2313725490196079,
+        "red": 0.2313725490196079
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.7803921568627451,
+        "green": 0.4666666666666667,
+        "red": 0.196078431372549
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8588235294117647,
+        "green": 0.615686274509804,
+        "red": 0.1647058823529412
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.3333333333333333,
+        "green": 0.6823529411764706,
+        "red": 0.3137254901960784
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.7803921568627451,
+        "green": 0.3647058823529412,
+        "red": 0.7176470588235294
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.6980392156862745,
+        "green": 0.5686274509803921,
+        "red": 0.9490196078431372
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2392156862745098,
+        "green": 0.2745098039215687,
+        "red": 0.9490196078431372
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.1294117647058823,
+        "green": 0.1294117647058823,
+        "red": 0.8509803921568627
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.1490196078431373,
+        "green": 0.7450980392156863,
+        "red": 1
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.1333333333333333,
+        "green": 0.5450980392156862,
+        "red": 0.1333333333333333
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.6078431372549019,
+        "green": 0.3411764705882353,
+        "red": 0.00392156862745098
+      },
+      {
+        "_class": "color",
+        "alpha": 0.3,
+        "blue": 0.2313725490196079,
+        "green": 0.2313725490196079,
+        "red": 0.2313725490196079
+      },
+      {
+        "_class": "color",
+        "alpha": 0.3,
+        "blue": 0.7803921568627451,
+        "green": 0.4666666666666667,
+        "red": 0.196078431372549
+      },
+      {
+        "_class": "color",
+        "alpha": 0.3,
+        "blue": 0.8588235294117647,
+        "green": 0.615686274509804,
+        "red": 0.1647058823529412
+      },
+      {
+        "_class": "color",
+        "alpha": 0.3,
+        "blue": 0.3333333333333333,
+        "green": 0.6823529411764706,
+        "red": 0.3137254901960784
+      },
+      {
+        "_class": "color",
+        "alpha": 0.3,
+        "blue": 0.7803921568627451,
+        "green": 0.3647058823529412,
+        "red": 0.7176470588235294
+      },
+      {
+        "_class": "color",
+        "alpha": 0.3,
+        "blue": 0.6980392156862745,
+        "green": 0.5686274509803921,
+        "red": 0.9490196078431372
+      },
+      {
+        "_class": "color",
+        "alpha": 0.3,
+        "blue": 0.2392156862745098,
+        "green": 0.2745098039215687,
+        "red": 0.9490196078431372
+      },
+      {
+        "_class": "color",
+        "alpha": 0.3,
+        "blue": 0.1294117647058823,
+        "green": 0.1294117647058823,
+        "red": 0.8509803921568627
+      },
+      {
+        "_class": "color",
+        "alpha": 0.3,
+        "blue": 0.1490196078431373,
+        "green": 0.7450980392156863,
+        "red": 1
+      },
+      {
+        "_class": "color",
+        "alpha": 0.1,
+        "blue": 0.1294117647058823,
+        "green": 0.1294117647058823,
+        "red": 0.1294117647058823
+      }
+    ],
+    "do_objectID": "8F9A1513-21BE-4CFA-9953-46E208B121D9",
+    "exportPresets": [
+    ],
+    "gradientAssets": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "83316B60-9BE9-48A7-81AE-F78124B368E7",
+  "foreignLayerStyles": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "60",
+    "build": 88103,
+    "version": 121
+  },
+  "pages": [
+    "Library Preview",
+    "Colors Palette HEX",
+    "Colors Palette RGB"
+  ]
+}

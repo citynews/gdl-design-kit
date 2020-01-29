@@ -1,0 +1,118 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F3700D4D-DFAB-4788-B45B-34C582069E6D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 269,
+    "width": 303,
+    "x": 368,
+    "y": 3179
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
+  "name": "story/stack copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "8F774975-DB4E-4B4C-89FC-C8E7B842D278_textStyle",
+      "value": "C41777FB-5E62-4154-9391-9F529E14B7D8"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8F774975-DB4E-4B4C-89FC-C8E7B842D278_stringValue",
+      "value": "Tinte per capelli senza ammoniaca: le migliori offerte online"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D0E3CB8F-912D-4D34-8F9E-0EBE1E852224_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/2cfa842a61a03c5c0aef46e76225f4c0385590bf.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "6693F2D9-9701-4F84-9917-C99D0A9861DA_textStyle",
+      "value": "93B5ADA5-5989-4C3C-8A43-33D0D676354D"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "6693F2D9-9701-4F84-9917-C99D0A9861DA_stringValue",
+      "value": "bellezza"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "6748741B-98CB-428C-B17D-34B753E17083",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "212F8A51-74B3-4AE6-94B1-08810FA4E7AD",
+  "verticalSpacing": 0
+}
